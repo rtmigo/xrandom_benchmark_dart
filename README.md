@@ -1,1 +1,1 @@
-CLI benchmarks for testing [xrandom](https://github.com/rtmigo/xrandom) 
+CLI benchmarks for testing [xrandom](https://github.com/rtmigo/xrandom).
